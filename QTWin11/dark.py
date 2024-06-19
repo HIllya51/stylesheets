@@ -15,7 +15,7 @@ QWidget {
     background: transparent;
     color: rgb(255, 255, 255);
     font-size: 17px;
-    font-family: "Segoe UI Variable Small", serif;
+    
     font-weight: 400;
 }
 
@@ -25,7 +25,7 @@ QMenuBar {
     color: white;
     padding: 10px;
     font-size: 17px;
-    font-family: "Segoe UI Variable Small", serif;
+    
     font-weight: 400;
 }
 
@@ -672,7 +672,7 @@ QLineEdit {
     background-color: rgba(255, 255, 255, 16);
     border: 1px solid rgba(255, 255, 255, 13);
     font-size: 16px;
-    font-family: "Segoe UI", serif;
+    
     font-weight: 500;
     border-radius: 7px;
     border-bottom: 1px solid rgba(255, 255, 255, 150);
@@ -803,7 +803,7 @@ QTextEdit {
     background-color: rgba(255, 255, 255, 16);
     border: 1px solid rgba(255, 255, 255, 13);
     font-size: 16px;
-    font-family: "Segoe UI", serif;
+    
     font-weight: 500;
     border-radius: 7px;
     border-bottom: 1px solid rgba(255, 255, 255, 150);
@@ -835,7 +835,7 @@ QPlainTextEdit {
     background-color: rgba(255, 255, 255, 16);
     border: 1px solid rgba(255, 255, 255, 13);
     font-size: 16px;
-    font-family: "Segoe UI", serif;
+    
     font-weight: 500;
     border-radius: 7px;
     border-bottom: 1px solid rgba(255, 255, 255, 150);
@@ -1065,7 +1065,7 @@ QTreeView:disabled {
 #toggleSwitch {
     color: rgb(255, 255, 255);
     font-size: 17px;
-    font-family: "Segoe UI Variable Small", serif;
+    
     font-weight: 400;
 }
 
@@ -1127,7 +1127,7 @@ QTreeView:disabled {
 #hyperlinkButton {
     color: '''+accent+''';
     font-size: 17px;
-    font-family: "Segoe UI Variable Small", serif;
+    
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0);
     border: none;
@@ -1150,7 +1150,7 @@ QTreeView:disabled {
 QListView {
     background-color: transparent;
     font-size: 17px;
-    font-family: "Segoe UI Variable Small", serif;
+    
     font-weight: 400;
     padding: 7px;
     border-radius: 10px;
